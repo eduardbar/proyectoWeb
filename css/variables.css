@@ -1,0 +1,9 @@
+:root {
+    --color_blanco: #fff;
+    --altura_header: 80px;
+    --padding_left_right: 2rem;
+    --ancho_maximo: 1200px;
+    --color_primario: #ff702a;
+    --color_body: #1e1d2b;
+    --mobile-menu-color: #2c2b47;
+}
